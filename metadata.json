@@ -1,0 +1,6 @@
+{
+  "name": "Gaming Tournament",
+  "description": "Free Fire Esports tournament platform featuring paid & free contests, instant deposit, leaderboards with player profiles and likes, refer & earn, and VIP premium subscription.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
